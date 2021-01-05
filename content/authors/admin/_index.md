@@ -1,6 +1,6 @@
 ---
 role: Industrial Engineering Ph.D. Candidate
-avatar_filename: nurettinsergin_directory.jpeg
+avatar: nurettinsergin_directory.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
@@ -12,8 +12,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/dorukhansergin/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Arizona State University; School of Computing, Informatics, and Decision Systems Engineering
+    url: https://cidse.engineering.asu.edu
 education:
   courses:
     - course: Ph.D. in Industrial Engineering
@@ -28,7 +28,7 @@ education:
 superuser: true
 highlight_name: false
 title: Nurettin Dorukhan Sergin
-email: ""
+email: "dorukhan.sergin@gmail.com"
 ---
 Dorukhan is a Graduate Research Assistant at ASU's School of Computing, Information and Decision Systems Engineering (CIDSE). He is currently at the "all but dissertation" stage of his doctoral program at  He's expected to receive his degree in the Summer of 2021. 
 
