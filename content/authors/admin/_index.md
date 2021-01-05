@@ -1,8 +1,7 @@
 ---
 role: Industrial Engineering Ph.D. Candidate
 avatar: nurettinsergin_directory.jpeg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: []
 interests: []
 social:
   - icon: envelope
@@ -30,13 +29,19 @@ highlight_name: false
 title: Nurettin Dorukhan Sergin
 email: "dorukhan.sergin@gmail.com"
 ---
-Dorukhan is a Graduate Research Assistant at ASU's School of Computing, Information and Decision Systems Engineering (CIDSE). He is currently at the "all but dissertation" stage of his doctoral program at  He's expected to receive his degree in the Summer of 2021. 
+I am a Graduate Research Assistant at ASU's School of Computing, Information and Decision Systems Engineering (CIDSE). I am currently at the "all but dissertation" stage of my doctoral degree. I am expected to receive his degree in the Summer of 2021. 
 
-He interned at Apple as a Machine Learning Engineer between June and December of 2020 where he built machine learning and computer vision solutions for the factory floor.
+I interned at Apple Inc. as a Machine Learning Engineer between June and December of 2020 where I built machine learning and computer vision solutions for the factory floor.
 
-Throughout his doctorate, he did research in a number of areas. His major research focuses on the use of deep (probabilistic) neural networks in the context of statistical process control and fault classification in manufacturing settings. His work appeared in IEEE CASE 2019 and INFORMS 2020.
+Throughout my doctorate, I did research in a number of areas. My major research focuses on the use of deep (probabilistic) neural networks in the context of statistical process control and fault classification in manufacturing settings. My work appeared in IEEE CASE 2019 and INFORMS 2020.
 
-He also worked on tensor decomposition techniques to model complex spatiotemporal systems. A related conference paper where he co-authored appeared in AAAI 2020.
+I also worked on tensor decomposition techniques to model complex spatiotemporal systems. A related conference paper where I co-authored appeared in AAAI 2020.
 
-During his M.S. degree in Bogazici University he worked as a Graduate Research Assistant in the European Union funded [ARTS Project](http://acceleratingtransitions.eu), which aims to understand and empower grassroots organizations that promote carbon-neutral lifestyle in European cities. For this project, he built computational social simulation tools and serious games to facilitate policy discussions. For his dissertation, he took pivoted from simulation to machine learning and focused on the problem of multivariate time-series classification.
+During my M.S. degree in Bogazici University I worked as a Graduate Research Assistant in the European Union funded [ARTS Project](http://acceleratingtransitions.eu), which aims to understand the role of and empower grassroots organizations that promote carbon-neutral lifestyle in European cities. The project is dear to my heart as I am personally quite concerned about climate change. For this project, I built computational social simulation tools and serious games to facilitate policy discussions. 
+
+For my dissertation, I pivoted from simulation to machine learning and focused on the problem of multivariate time-series classification.
+
+Ever since I first capsized in a bathtub-sized [Optimist](https://en.wikipedia.org/wiki/Optimist_(dinghy)) when I was a little kid on my first day of sailing, it has been my favorite pastime activity. I also proudly served as a board member at [Bogazici University Sailing and Maritime Society](http://yelken.boun.edu.tr) throughout my undergrad. That gave me opportunity to spread the love by teaching people sailing both on the water and in front of the blackboard.
+
+Other than sailing, I like reading about a wide rang of topics, from philosophy to politics, history, and art; and thereby understand all of them better by hopefully drawing connections between them.
 
