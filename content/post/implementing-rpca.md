@@ -15,7 +15,6 @@ featured: false
 draft: false
 toc: true
 math: true
-# markup: mmark
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

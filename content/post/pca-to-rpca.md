@@ -12,7 +12,6 @@ date: "2019-10-25T12:35:53-07:00"
 lastmod: "2019-10-25T12:35:53-07:00"
 featured: false
 draft: false
-markup: mmark
 math: true
 
 # Featured image

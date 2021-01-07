@@ -39,9 +39,9 @@ I also worked on tensor decomposition techniques to model complex spatiotemporal
 
 During my M.S. degree in Bogazici University I worked as a Graduate Research Assistant in the European Union funded [ARTS Project](http://acceleratingtransitions.eu), which aims to understand the role of and empower grassroots organizations that promote carbon-neutral lifestyle in European cities. The project is dear to my heart as I am personally quite concerned about climate change. For this project, I built computational social simulation tools and serious games to facilitate policy discussions. 
 
-For my dissertation, I pivoted from simulation to machine learning and focused on the problem of multivariate time-series classification.
+For my master's dissertation, I pivoted from simulation to machine learning and focused on the problem of multivariate time-series classification.
 
 Ever since I first capsized in a bathtub-sized [Optimist](https://en.wikipedia.org/wiki/Optimist_(dinghy)) when I was a little kid on my first day of sailing, it has been my favorite pastime activity. I also proudly served as a board member at [Bogazici University Sailing and Maritime Society](http://yelken.boun.edu.tr) throughout my undergrad. That gave me opportunity to spread the love by teaching people sailing both on the water and in front of the blackboard.
 
-Other than sailing, I like reading about a wide rang of topics, from philosophy to politics, history, and art; and thereby understand all of them better by hopefully drawing connections between them.
+Other than going sailing, I like reading about a wide range of topics, from philosophy to politics, history, and art. Keeping the range wide-open helps me understand all of them better by drawing connections between them.
 
