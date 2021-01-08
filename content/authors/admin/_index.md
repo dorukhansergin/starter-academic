@@ -29,7 +29,7 @@ highlight_name: false
 title: Nurettin Dorukhan Sergin
 email: "dorukhan.sergin@gmail.com"
 ---
-I am a Graduate Research Assistant at ASU's School of Computing, Information and Decision Systems Engineering (CIDSE). I am currently at the "all but dissertation" stage of my doctoral degree. I am expected to receive his degree in the Summer of 2021. 
+I am a Graduate Research Assistant at ASU's School of Computing, Information and Decision Systems Engineering (CIDSE). I am currently at the "all but dissertation" stage of my doctoral degree. I am expected to receive my degree in the Summer of 2021. 
 
 I interned at Apple Inc. as a Machine Learning Engineer between June and December of 2020 where I built machine learning and computer vision solutions for the factory floor.
 
