@@ -25,7 +25,7 @@ experience:
   - title: Machine Learning Engineer Intern
     company: Apple Inc.
     company_url: ''
-    location: Phoenix, AZ (Remote)
+    location: Phoenix, AZ (Remote due to COVID-19)
     date_start: '2020-06-01'
     date_end: '2020-12-18'
     # description: |2-

@@ -17,7 +17,7 @@ education:
   courses:
     - course: Ph.D. in Industrial Engineering
       institution: Arizona State University
-      year: ""
+      year: "2021 (Expected)"
     - course: M.S. in Industrial Engineering
       institution: Bogazici University
       year: 2017
@@ -29,19 +29,28 @@ highlight_name: false
 title: Nurettin Dorukhan Sergin
 email: "dorukhan.sergin@gmail.com"
 ---
-I am a Graduate Research Assistant at ASU's School of Computing, Information and Decision Systems Engineering (CIDSE). I am currently at the "all but dissertation" stage of my doctoral degree. I am expected to receive my degree in the Summer of 2021. 
+{{% callout note %}}
+I'm graduating this summer! 
 
-I interned at Apple Inc. as a Machine Learning Engineer between June and December of 2020 where I built machine learning and computer vision solutions for the factory floor.
+If you're looking for someone who has both research and applied experience in building machine learning-based solutions, shoot me an email.
 
-Throughout my doctorate, I did research in a number of areas. My major research focuses on the use of deep (probabilistic) neural networks in the context of statistical process control and fault classification in manufacturing settings. My work appeared in IEEE CASE 2019 and INFORMS 2020.
+Role fits: 
+- Machine Learning Engineer
+- Applied Researcher/Scientist
+- Data Scientist
+- Operations Research Engineer
+{{% /callout %}}
 
-I also worked on tensor decomposition techniques to model complex spatiotemporal systems. A related conference paper where I co-authored appeared in AAAI 2020.
+I am a doctoral candidate at ASU's School of Computing, Information and Decision Systems Engineering (CIDSE). I am currently at the "all but dissertation" stage of my doctoral degree. I am expected to receive my degree in the Summer of 2021. 
 
-During my M.S. degree in Bogazici University I worked as a Graduate Research Assistant in the European Union funded [ARTS Project](http://acceleratingtransitions.eu), which aims to understand the role of and empower grassroots organizations that promote carbon-neutral lifestyle in European cities. The project is dear to my heart as I am personally quite concerned about climate change. For this project, I built computational social simulation tools and serious games to facilitate policy discussions. 
+If you are here, you're probably looking for some serious stuff such as links to my publications, talks, projects etc. Feel free to explore and reach out to me about any question you have in mind. Even though this blog has mostly serious stuff, I intend to put more fun stuff once I finally manage to finish my Ph.D. and hopefully have a more stable work-life balance.
 
-For my master's dissertation, I pivoted from simulation to machine learning and focused on the problem of multivariate time-series classification.
+Speaking of fun stuff, I love sailing. Ever since I first capsized in a bathtub-sized [Optimist](https://en.wikipedia.org/wiki/Optimist_(dinghy)) when I was a little kid, it has been my favorite pastime activity. I also proudly served as a board member at [Bogazici University Sailing and Maritime Society](http://yelken.boun.edu.tr) throughout my undergrad. That gave me opportunity to spread the love by teaching people sailing both on the water and in front of the blackboard.
 
-Ever since I first capsized in a bathtub-sized [Optimist](https://en.wikipedia.org/wiki/Optimist_(dinghy)) when I was a little kid on my first day of sailing, it has been my favorite pastime activity. I also proudly served as a board member at [Bogazici University Sailing and Maritime Society](http://yelken.boun.edu.tr) throughout my undergrad. That gave me opportunity to spread the love by teaching people sailing both on the water and in front of the blackboard.
+Other than going sailing, I like reading about a wide range of topics, from philosophy to politics, history, and art. I believe keeping the range wide open helps me understand them better collectively by drawing connections between them.
 
-Other than going sailing, I like reading about a wide range of topics, from philosophy to politics, history, and art. Keeping the range wide-open helps me understand all of them better by drawing connections between them.
+Here are the stuff that I'm currently reading, thinking, pondering, wasting time about:
+- How can we learn lessons from this pandemic and be better prepared for a creeping climate disaster?
+- How to (actively) model human preferences?
+- Electronic music, all the way from music theory to sound design
 
