@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Toward a Better Monitoring Statistic for Profile Monitoring via Variational Autoencoders (In Press)"
+title: "Toward a Better Monitoring Statistic for Profile Monitoring via Variational Autoencoders"
 authors: ["Nurettin Dorukhan Sergin", "Hao Yan"]
 date: 2021-04-02T01:18:56-07:00
 # doi: "https://doi.org/10.1080/00224065.2021.1903821"
@@ -16,7 +16,7 @@ publishDate: 2021-04-02T01:18:56-07:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Quality Technology"
+publication: "JQT Special Issue – Artificial Intelligence & Statistics for Quality Technology"
 publication_short: ""
 
 abstract: "Variational autoencoders have been recently proposed for the problem of process monitoring. While these works show impressive results over classical methods, the proposed monitoring statistics often ignore the inconsistencies in learned lower-dimensional representations and computational limitations in high-dimensional approximations. In this work, we first
@@ -39,7 +39,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "https://www.tandfonline.com/doi/full/10.1080/00224065.2021.1903821"
 url_code:
 url_dataset:
 url_poster:
