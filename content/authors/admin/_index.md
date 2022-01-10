@@ -1,5 +1,5 @@
 ---
-role: Industrial Engineering Ph.D. Candidate
+role: Machine Learning Engineer/Scientist
 avatar: nurettinsergin_directory.jpeg
 bio: []
 interests: []
@@ -11,8 +11,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/dorukhansergin/
 organizations:
-  - name: Arizona State University; School of Computing, Informatics, and Decision Systems Engineering
-    url: https://cidse.engineering.asu.edu
 education:
   courses:
     - course: Ph.D. in Industrial Engineering
@@ -26,31 +24,15 @@ education:
       year: 2015
 superuser: true
 highlight_name: false
-title: Nurettin Dorukhan Sergin
-email: "dorukhan.sergin@gmail.com"
+title: Dorukhan Sergin
 ---
-{{% callout note %}}
-I'm graduating this summer! 
+Hi! I'm so glad you found this website! I hope you find interesting stuff in here. My name is Dorukhan and I build machine learning products for a living. After getting my PhD in Industrial Engineering at Arizona State University (with a focus on Machine Learning), I decided to move onto the industry to be more hands-on with building machine learning products.
 
-If you're looking for someone who has both research and applied experience in building machine learning-based solutions, shoot me an email.
-
-Role fits: 
-- Machine Learning Engineer
-- Applied Researcher/Scientist
-- Data Scientist
-- Operations Research Engineer
-{{% /callout %}}
-
-I am a doctoral candidate at ASU's School of Computing, Information and Decision Systems Engineering (CIDSE). I am currently at the "all but dissertation" stage of my doctoral degree. I am expected to receive my degree in the Summer of 2021. 
-
-If you are here, you're probably looking for some serious stuff such as links to my publications, talks, projects etc. Feel free to explore and reach out to me about any question you have in mind. Even though this blog has mostly serious stuff, I intend to put more fun stuff once I finally manage to finish my Ph.D. and hopefully have a more stable work-life balance.
-
-Speaking of fun stuff, I love sailing. Ever since I first capsized in a bathtub-sized [Optimist](https://en.wikipedia.org/wiki/Optimist_(dinghy)) when I was a little kid, it has been my favorite pastime activity. I also proudly served as a board member at [Bogazici University Sailing and Maritime Society](http://yelken.boun.edu.tr) throughout my undergrad. That gave me opportunity to spread the love by teaching people sailing both on the water and in front of the blackboard.
-
-Other than going sailing, I like reading about a wide range of topics, from philosophy to politics, history, and art. I believe keeping the range wide open helps me understand them better collectively by drawing connections between them.
+This blog is meant to serve two purposes: (1) my public journal, (2) a collection of my learnings that I want to share publicly. If there are topics that you'd want me to cover, reach me out through LinkedIn or email.
 
 Here are the stuff that I'm currently reading, thinking, pondering, wasting time about:
-- How can we learn lessons from this pandemic and be better prepared for a creeping climate disaster?
-- How to (actively) model human preferences?
-- Electronic music, all the way from music theory to sound design
-
+- How can we expand from the scientific consensus on climate change and turn it into a global metanarrative so that we can start globally start addressing it?
+- What can we learn from the history about growing income inequality to make sure we make a smooth transition into a more equal society?
+- Is there free-will? (Yes, I'm still not over that topic.)
+- Machine Learning System Design best practices.
+- Opportunities for sailing in NYC!

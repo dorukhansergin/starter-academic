@@ -22,10 +22,34 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Scientist (Machine Learning)
+    company: Meta
+    company_url: ''
+    location: New York, NY
+    date_start: '2022-01-10'
+    # date_end: '2022'
+    # description: |2-
+    #    Responsibilities include:
+        
+    #    * Analysing
+    #    * Modelling
+    #    * Deploying
+  - title: Machine Learning Engineer
+    company: Landing AI
+    company_url: ''
+    location: Palo Alto, CA
+    date_start: '2021-08-11'
+    date_end: '2022-01-07'
+    # description: |2-
+    #    Responsibilities include:
+        
+    #    * Analysing
+    #    * Modelling
+    #    * Deploying
   - title: Machine Learning Engineer Intern
     company: Apple Inc.
     company_url: ''
-    location: Phoenix, AZ (Remote due to COVID-19)
+    location: Cupertino, CA
     date_start: '2020-06-01'
     date_end: '2020-12-18'
     # description: |2-
